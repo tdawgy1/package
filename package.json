@@ -1,0 +1,22 @@
+{
+  "name": "tylernpm",
+  "version": "1.0.0",
+  "description": "no more  console.log now we use print",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ty-ler1/simply.git"
+  },
+  "keywords": [
+    "simplify"
+  ],
+  "author": "ty-ler1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ty-ler1/simply/issues"
+  },
+  "homepage": "https://github.com/ty-ler1/simply#readme"
+}
